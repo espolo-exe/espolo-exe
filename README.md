@@ -1,8 +1,8 @@
 ## Hey, what's up?
-I'm an amateur solo writer, artist, worldbuilder and game dev--online, I go by Espolo.
-I'm currently working on (too) many projects, but my main focus lately has been "Freedom's Debt", a video game I named ever too hastily. It's hefty, but I'll finish it some day.
-I'm currently learning C# in Unity. I gotta say, jumping straight to C# from python is real hard.
-I speak english fluently, but my native language is french.
+I'm an amateur solo writer, artist, worldbuilder and game dev--online, I go by Espolo.  
+I'm currently working on (too) many projects, but my main focus lately has been "Freedom's Debt", a video game I named ever too hastily. It's hefty, but I'll finish it some day.  
+I'm currently learning C# in Unity. I gotta say, jumping straight to C# from python is real hard.  
+I speak english fluently, but my native language is french.  
 I'm currently 15, going on 16.
 
 <!--
